@@ -1,7 +1,7 @@
 # Document Exchange & Verfication Using Truffle & IPFS
 <img src="./img/logo.png" align="right" height="60" />
 
-This Dapp is made On **Etherum Blockchian** & **IPFS** with Interface on **React.js*
+This Dapp is made On **Etherum Blockchian** & **IPFS** with Interface on **React.js**
 
 ## Features
 
